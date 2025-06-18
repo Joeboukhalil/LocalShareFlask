@@ -24,7 +24,7 @@ Make sure you have Python installed.
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/LocalShareFlask.git
+   git clone https://github.com/Joeboukhalil/LocalShareFlask.git
    cd LocalShareFlask
 
 2. install flask
